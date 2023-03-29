@@ -1,0 +1,8 @@
+[27-Jun-2022 20:43:22 Asia/Dhaka] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 3
+[06-Jul-2022 00:27:40 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[06-Jul-2022 00:28:34 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[06-Jul-2022 00:28:53 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[06-Jul-2022 00:29:02 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[06-Jul-2022 00:29:47 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[06-Jul-2022 00:30:29 Asia/Dhaka] PHP Fatal error:  Cannot use empty array elements in arrays in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/app/Http/Controllers/AttendanceController.php on line 1276
+[18-Jul-2022 14:51:29 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home4/mumtaadb/software.mumtaz-groupofcompanies.com/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 48
